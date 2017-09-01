@@ -1,3 +1,4 @@
+中文介绍：http://blog.make3.cn/article/35
 youtube-dl - download videos from youtube.com or other video platforms
 
 - [INSTALLATION](#installation)
